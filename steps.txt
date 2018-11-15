@@ -1,0 +1,4 @@
+1. Create Dataset -> Dataset Creator
+2. Train the recognizer -> Trainer 
+3. Detection Step -> Detection
+
